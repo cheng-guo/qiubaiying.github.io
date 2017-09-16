@@ -1,11 +1,11 @@
 # Site settings
-title: BY Blog
-SEOTitle: 伊特课堂 | BY Blog
+title: ITKT
+SEOTitle: 伊特课堂 | ITKT
 header-img: img/post-bg-desk.jpg
 email: 89458645@qq.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 伊特课堂, ITKT,伊特, iOS, Apple, iPhone"
-url: "http://cheng-guo.github.io"          # your host, for absolute URL
+description: "伊特互联网IT学习课堂."
+keyword: "BY, ITKT, 伊特课堂, ITKT,伊特, iOS, Apple, iPhone"
+url: "https://cheng-guo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/cheng-guo/cheng-guo.github.io.git" # you code repository
 
@@ -95,7 +95,7 @@ service-worker: true
 friends: [
     {
         title: "XCguan",
-        href: "http://xcguan.net"   
+        href: "http://xcguan.net"      
     },{
         title: "Apple",
         href: "https://apple.com"
